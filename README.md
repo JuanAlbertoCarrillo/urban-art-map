@@ -11,8 +11,8 @@ Urban Art Map is an interactive platform that brings together street art enthusi
 - 📍 **Geolocation Integration** – See what's near you.  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React, Material-UI / Ant Design   
-- **Map Integration:** Google Maps API / Leaflet.js   (TBD)  
+- **Frontend:** React, Material-UI 
+- **Map Integration:** Leaflet.js
 - **Authentication:** Firebase Auth / Auth0   (TBD)  
 - **Hosting:** Vercel / Netlify (TBD)  
 

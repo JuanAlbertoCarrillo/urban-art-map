@@ -8,9 +8,9 @@ const renderWithRouter = (ui) => render(ui);
 describe("Navigation Tests", () => {
 
     // Set up the environment before each test
-  beforeEach(() => {
-    renderWithRouter(<App />); // Render the App component before each test
-  });
+    beforeEach(() => {
+        renderWithRouter(<App />); // Render the App component before each test
+    });
 
     test("renders navigation links", () => {
         const mapLink = screen.getByRole('link', { name: /map/i });  // query by role of link

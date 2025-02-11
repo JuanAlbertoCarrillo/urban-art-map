@@ -9,7 +9,7 @@ on:
       - main     # Trigger the workflow on pull requests to the main branch
       - dev      # Trigger the workflow on pull requests to the dev branch
   pull_request:
-  branches:
+    branches:
       - main 
       - dev  
 
